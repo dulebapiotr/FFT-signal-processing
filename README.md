@@ -40,5 +40,15 @@ Następnie został naniesiony  na niego szum, w naszym przypadku losowe wartośc
 
 ![alt text](https://github.com/dulebapiotr/FFT-signal-processing/blob/master/res/sinus_time.png)
 
+Tak zaszumiony sygnał poddano transformacie Fouriera. Otrzymano następujący wynik:
+
+![alt text](https://github.com/dulebapiotr/FFT-signal-processing/blob/master/res/sinus_frequency.png)
+
+Widać, że oprócz pojedynczej wyrażnej "szpilki" wystapuje dużo innych, mnijeszych. Są to właśnie częstotliwości szumów które dodaliśmy uprzednio. 
+Następnie pozbywając się tych mnijeszych szpilek sygnałów(redukując elementy tablicy o module mniejszym od 50 do 0), otrzymujemy następujący wykres:
+
+![alt text](https://github.com/dulebapiotr/FFT-signal-processing/blob/master/res/sinus_frequency_clear.png)
+
+
 
 
