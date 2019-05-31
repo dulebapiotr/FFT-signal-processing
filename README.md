@@ -49,6 +49,11 @@ Następnie pozbywając się tych mnijeszych szpilek sygnałów(redukując elemen
 
 ![alt text](https://github.com/dulebapiotr/FFT-signal-processing/blob/master/res/sinus_frequency_clear.png)
 
+Mamy teraz pojedynczy sygnał. Stosując teraz odwrtoną transformatę Foutiera(przechodząc z dziedziny częstotliwości do dziedziny czasu) otrzymujemy następujący sygnał:
+
+![alt text](https://github.com/dulebapiotr/FFT-signal-processing/blob/master/res/sinus_after_clear.png)
+
+
 
 
 
