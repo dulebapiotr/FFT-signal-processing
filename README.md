@@ -30,4 +30,15 @@ Jak widać na powyższym wykresie, można wyróżnić 2 widoczne "szpilki". Odpo
 na sygnał wejściowy. Ich częstotliwości to odpowiednio **200Hz** i **400Hz**.
 Dzięki zastosowaniu transformaty można w łatwy i widoczny sposób pokazać, z jakich sygnałów złożony jest jakiś sygnał, co jest ciężkie do zauważenia w dziedzinie czasu.
 
+### Zastosowanie transformaty Fouriera do filtracji zaszumionego sygnału.
+Naszym sygnałem wejściowym będzie czysty sinus, czyli **f(t)=sin(2πt)**.
+Jego wykres w dziedzinie czasu, jak powszechnie wiadomo wygląda następująco:
+
+![alt text](https://github.com/dulebapiotr/FFT-signal-processing/blob/master/res/clear_sinus_time.png)
+
+Następnie został naniesiony  na niego szum, w naszym przypadku losowe wartości. Teraz nasz sygnał prezentuje się nastepująco:
+
+![alt text](https://github.com/dulebapiotr/FFT-signal-processing/blob/master/res/sinus_time.png)
+
+
 
