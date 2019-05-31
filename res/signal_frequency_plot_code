@@ -1,5 +1,5 @@
-set terminal pdf
-set output "signal_frequency.pdf"
+set terminal png
+set output "signal_frequency.png"
 set title "Processed Signal in Frequency Domain"
 set xlabel "Frequency"
 set ylabel "Value "

@@ -1,5 +1,6 @@
-set terminal pdf
-set output "signal_time.pdf"
+set terminal png
+set output "signal_time.png"
+
 set title "Processed Signal in Time Domain"
 set xlabel "Time"
 set ylabel "Value "
