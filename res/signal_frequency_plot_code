@@ -1,0 +1,8 @@
+set terminal pdf
+set output "signal_frequency.pdf"
+set title "Processed Signal in Frequency Domain"
+set xlabel "Frequency"
+set ylabel "Value "
+set grid
+set style data lines
+plot "signal_frequency" title""
