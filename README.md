@@ -1,5 +1,7 @@
 # Programownaie w języku Fortran - projekt 2
 ## Program
+### Pliki
+W katalogu **src** znajduje się plik makefile, który kompiluje i uruchamia programy. 
 ### Uruchamianie
 Po pobraniu kodu źródłowego, z poziomu katalogu **src** wydajemy komendę:
 ```
