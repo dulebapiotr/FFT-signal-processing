@@ -1,0 +1,9 @@
+set terminal png
+set output "sinus_time.png"
+
+set title "Sinus With Noise in Time Domain"
+set xlabel "Time"
+set ylabel "Value "
+set grid
+set style data lines
+plot "sinus_time" title""

@@ -1,0 +1,8 @@
+set terminal png
+set output "clear_sinus_time.png"
+set title "Clear Sinus in Time Domain"
+set xlabel "Time"
+set ylabel "Value "
+set grid
+set style data lines
+plot "clear_sinus_time" title""

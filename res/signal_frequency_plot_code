@@ -1,6 +1,6 @@
 set terminal png
 set output "signal_frequency.png"
-set title "Processed Signal in Frequency Domain"
+set title "Signal in Frequency Domain"
 set xlabel "Frequency"
 set ylabel "Value "
 set grid
