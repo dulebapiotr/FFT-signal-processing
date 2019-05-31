@@ -53,6 +53,8 @@ Mamy teraz pojedynczy sygnał. Stosując teraz odwrtoną transformatę Foutiera(
 
 ![alt text](https://github.com/dulebapiotr/FFT-signal-processing/blob/master/res/sinus_after_clear.png)
 
+Jak widać, otrzymany sygnał jest niemal identyczny jak ten na początku. Ewentulane różnice moga wynikać z tego, że jedna ze składowych szumu mogła mieć taką samą częstotliwość, jak nasz sygnał. Mimo to, widać że sygnał jest w dużo lepszym stanie niż ten zaszumiony. 
+
 
 
 
