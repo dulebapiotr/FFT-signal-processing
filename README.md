@@ -1,7 +1,11 @@
 # Programownaie w języku Fortran - projekt 2
 ## Program
 ### Pliki
-W katalogu **src** znajduje się plik makefile, który kompiluje i uruchamia programy. 
+W katalogu **src** znajduje się plik makefile, który kompiluje i uruchamia programy.
+
+W pliku **src/signal.f90** znajduje się kod realizujący 1 część zadania, część druga znajduje się w pliku **src/sinus.f90**
+
+W katalogu **res** znajdują się makefile, pliki gnuplota, pliki z wynikami i uprzednio wygenerowane wykresy
 ### Uruchamianie
 Po pobraniu kodu źródłowego, z poziomu katalogu **src** wydajemy komendę:
 ```
